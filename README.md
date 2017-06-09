@@ -12,4 +12,4 @@ If we would like to tackle the incidents with highest impact, we would need to k
 
 One key aspect required to tackle the problem is the surface area of the affected districts. The following map shows the relative amount of larceny and theft incidents across districts, compared with the extension of those districts. The district limits in underlying map are plotted by coloring individual incidents. Southern is not only the most affected one, but its incidents are restricted to a relatively small area compared to other districts such as Taraval or Bayview.
 
-![Larceny and theft across districts](map.png "Larceny and theft across districts")
+![Larceny and theft across districts](map_districts.png "Larceny and theft across districts")
